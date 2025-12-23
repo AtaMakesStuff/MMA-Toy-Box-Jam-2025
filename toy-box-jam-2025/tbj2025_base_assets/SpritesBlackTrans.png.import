@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bg0fb1tuqpkkh"
-path="res://.godot/imported/tbj2_sprites_16x16_V6_black_6-1.png-6255ababe43f384712b90de9c1bfcdac.ctex"
+path="res://.godot/imported/SpritesBlackTrans.png-dc734619984e64c11e100cec6581d9e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tbj2025_base_assets/tbj2_sprites_16x16_V6_black_6-1.png"
-dest_files=["res://.godot/imported/tbj2_sprites_16x16_V6_black_6-1.png-6255ababe43f384712b90de9c1bfcdac.ctex"]
+source_file="res://tbj2025_base_assets/SpritesBlackTrans.png"
+dest_files=["res://.godot/imported/SpritesBlackTrans.png-dc734619984e64c11e100cec6581d9e9.ctex"]
 
 [params]
 
