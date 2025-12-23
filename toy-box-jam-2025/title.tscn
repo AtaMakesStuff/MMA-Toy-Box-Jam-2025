@@ -8,9 +8,16 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 1151.0
+offset_bottom = 649.0
+color = Color(0.38137433, 0.5693045, 0.3993943, 1)
+
 [node name="RichTextLabel" type="RichTextLabel" parent="."]
 layout_mode = 0
 offset_right = 1131.0
 offset_bottom = 639.0
+theme_override_colors/default_color = Color(0.55387974, 0.08633264, 0.124840476, 1)
 theme_override_font_sizes/normal_font_size = 200
 text = "Toy Box Jam 2025"
