@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7jdoqc0nwnpv"
+path="res://.godot/imported/06 Nostalgia.mp3-944ff5374a7692db5f64bfa38ff6b475.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes1/06 Nostalgia.mp3"
+dest_files=["res://.godot/imported/06 Nostalgia.mp3-944ff5374a7692db5f64bfa38ff6b475.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

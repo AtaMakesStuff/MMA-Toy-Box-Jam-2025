@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://0itq2d1y32pj"
+path="res://.godot/imported/09 Autumn Wind.mp3-40a466574025efdf6f9fab480f5464bf.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes2/09 Autumn Wind.mp3"
+dest_files=["res://.godot/imported/09 Autumn Wind.mp3-40a466574025efdf6f9fab480f5464bf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

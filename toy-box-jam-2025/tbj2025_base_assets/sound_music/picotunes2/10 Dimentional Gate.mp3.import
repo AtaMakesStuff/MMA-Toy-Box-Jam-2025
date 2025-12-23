@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://sqaf0tdnaqnu"
+path="res://.godot/imported/10 Dimentional Gate.mp3-14f56d468a61a944adffe5c1ca6afdeb.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes2/10 Dimentional Gate.mp3"
+dest_files=["res://.godot/imported/10 Dimentional Gate.mp3-14f56d468a61a944adffe5c1ca6afdeb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

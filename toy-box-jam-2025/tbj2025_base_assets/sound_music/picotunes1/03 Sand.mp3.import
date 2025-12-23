@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tim7drvxsq6x"
+path="res://.godot/imported/03 Sand.mp3-bbb1e6f3dea79143df2961c5ef54be9e.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes1/03 Sand.mp3"
+dest_files=["res://.godot/imported/03 Sand.mp3-bbb1e6f3dea79143df2961c5ef54be9e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

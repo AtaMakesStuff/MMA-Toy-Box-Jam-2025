@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://l2wyg6aptl2o"
+path="res://.godot/imported/05 Ice.mp3-342d7ce97db0cd738fc490fc218a7408.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes1/05 Ice.mp3"
+dest_files=["res://.godot/imported/05 Ice.mp3-342d7ce97db0cd738fc490fc218a7408.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bh3ls03e2vck2"
+path="res://.godot/imported/04 Morning Shower.mp3-8eaf5493626c6aee3b9af87470f9c46d.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes2/04 Morning Shower.mp3"
+dest_files=["res://.godot/imported/04 Morning Shower.mp3-8eaf5493626c6aee3b9af87470f9c46d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

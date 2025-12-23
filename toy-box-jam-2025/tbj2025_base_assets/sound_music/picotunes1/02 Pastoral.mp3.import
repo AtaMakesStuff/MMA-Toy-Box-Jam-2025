@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cup5duaqv1fh3"
+path="res://.godot/imported/02 Pastoral.mp3-17a9c08e0699e3c808a727822b87fba5.mp3str"
+
+[deps]
+
+source_file="res://tbj2025_base_assets/sound_music/picotunes1/02 Pastoral.mp3"
+dest_files=["res://.godot/imported/02 Pastoral.mp3-17a9c08e0699e3c808a727822b87fba5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
