@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://dju2rhr1opqi5"]
+
+[node name="Matt" type="Node2D"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 732.0
+offset_top = 236.0
+offset_right = 772.0
+offset_bottom = 276.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(522, 198)
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Sprite2D"]
+offset_left = -482.0
+offset_top = -167.0
+offset_right = -320.9126
+offset_bottom = -66.976326
+rotation = -0.67646724
+text = "Hello"
