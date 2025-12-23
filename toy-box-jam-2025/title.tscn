@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://bne17cr31yqqx"]
+[gd_scene load_steps=2 format=3 uid="uid://bne17cr31yqqx"]
+
+[ext_resource type="PackedScene" uid="uid://braq035s0hgcu" path="res://player.tscn" id="1_y7k74"]
 
 [node name="Title" type="Control"]
 layout_mode = 3
@@ -21,3 +23,5 @@ offset_bottom = 639.0
 theme_override_colors/default_color = Color(0.55387974, 0.08633264, 0.124840476, 1)
 theme_override_font_sizes/normal_font_size = 200
 text = "Toy Box Jam 2025"
+
+[node name="Player" parent="." instance=ExtResource("1_y7k74")]
