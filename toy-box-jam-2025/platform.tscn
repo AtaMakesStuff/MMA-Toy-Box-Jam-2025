@@ -1,4 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://bwau3r8nshjrq"]
+[gd_scene load_steps=4 format=3 uid="uid://cjhp7i6moavd"]
+
+[ext_resource type="Texture2D" uid="uid://dnggonu1d0uua" path="res://icon.svg" id="1_mi635"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5ajho"]
 
