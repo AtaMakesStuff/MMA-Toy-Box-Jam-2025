@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://cwf0r0asfasme"]
+[gd_scene load_steps=3 format=3 uid="uid://dn2jrhku1adbr"]
 
-[ext_resource type="PackedScene" uid="uid://c3e8bystyy6h" path="res://player.tscn" id="1_qrja6"]
-[ext_resource type="PackedScene" uid="uid://bwau3r8nshjrq" path="res://platform.tscn" id="2_co24e"]
+[ext_resource type="PackedScene" uid="uid://braq035s0hgcu" path="res://player.tscn" id="1_qrja6"]
+[ext_resource type="PackedScene" uid="uid://cjhp7i6moavd" path="res://platform.tscn" id="2_co24e"]
 
 [node name="Testing" type="Node2D"]
 
@@ -9,5 +9,5 @@
 position = Vector2(178, 128)
 
 [node name="Platform" parent="." instance=ExtResource("2_co24e")]
-position = Vector2(0, 576)
+position = Vector2(1, 574)
 scale = Vector2(9, 9)
